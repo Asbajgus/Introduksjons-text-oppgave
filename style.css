@@ -1,0 +1,22 @@
+body {
+   background-color: black; 
+   color: white;
+   text-align: center;
+   align-content: center;
+}
+
+#name {
+    font-size: 60px;
+}
+    
+img {
+    width: 600px;
+}
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
